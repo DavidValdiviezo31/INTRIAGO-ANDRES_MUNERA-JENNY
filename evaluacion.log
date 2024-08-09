@@ -2,3 +2,19 @@
 [2024-08-08 23:07:36] [ INFO ] [OdontologoCollectionImpl:18] Odontologo guardado en la lista: Odontologo{id=null, matricula=65987, nombre='Andres', apellido='Intriago'}
 [2024-08-08 23:07:36] [ INFO ] [OdontologoCollectionImpl:1597] Odontologo{id=null, matricula=35453, nombre='Jenny', apellido='Munera'}
 [2024-08-08 23:07:36] [ INFO ] [OdontologoCollectionImpl:1597] Odontologo{id=null, matricula=65987, nombre='Andres', apellido='Intriago'}
+[2024-08-08 23:12:15] [ INFO ] [OdontologoCollectionImpl:18] Odontologo guardado en la lista: Odontologo{id=null, matricula=35453, nombre='Jenny', apellido='Munera'}
+[2024-08-08 23:12:15] [ INFO ] [OdontologoCollectionImpl:18] Odontologo guardado en la lista: Odontologo{id=null, matricula=65987, nombre='Andres', apellido='Intriago'}
+[2024-08-08 23:12:15] [ INFO ] [OdontologoCollectionImpl:1597] Odontologo{id=null, matricula=35453, nombre='Jenny', apellido='Munera'}
+[2024-08-08 23:12:15] [ INFO ] [OdontologoCollectionImpl:1597] Odontologo{id=null, matricula=65987, nombre='Andres', apellido='Intriago'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoH2Impl:38] Odontologo Guardado: Odontologo{id=7, matricula=35453, nombre='Jenny', apellido='Munera'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoH2Impl:38] Odontologo Guardado: Odontologo{id=8, matricula=65987, nombre='Andres', apellido='Intriago'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoH2Impl:1597] Odontologo{id=5, matricula=35453, nombre='Jenny', apellido='Munera'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoH2Impl:1597] Odontologo{id=6, matricula=65987, nombre='Andres', apellido='Intriago'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoH2Impl:1597] Odontologo{id=7, matricula=35453, nombre='Jenny', apellido='Munera'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoH2Impl:1597] Odontologo{id=8, matricula=65987, nombre='Andres', apellido='Intriago'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoCollectionImpl:18] Odontologo guardado en la lista: Odontologo{id=null, matricula=35453, nombre='Jenny', apellido='Munera'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoCollectionImpl:18] Odontologo guardado en la lista: Odontologo{id=null, matricula=65987, nombre='Andres', apellido='Intriago'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoCollectionImpl:1597] Odontologo{id=null, matricula=35453, nombre='Jenny', apellido='Munera'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoCollectionImpl:1597] Odontologo{id=null, matricula=65987, nombre='Andres', apellido='Intriago'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoCollectionImpl:1597] Odontologo{id=null, matricula=35453, nombre='Jenny', apellido='Munera'}
+[2024-08-08 23:12:16] [ INFO ] [OdontologoCollectionImpl:1597] Odontologo{id=null, matricula=65987, nombre='Andres', apellido='Intriago'}

@@ -10,8 +10,8 @@ import java.util.List;
 public class OdontologoService {
   private IDao<Odontologo> idao;
 
-  public OdontologoService(boolean usarDatabase) {
-    this.idao = usarDatabase ? new OdontologoH2Impl() : new OdontologoCollectionImpl();
+  public OdontologoService(boolean useDatabase) {
+    this.idao = useDatabase ? new OdontologoH2Impl() : new OdontologoCollectionImpl();
   }
 
   public Odontologo guardarOdontologo(Odontologo odontologo) {

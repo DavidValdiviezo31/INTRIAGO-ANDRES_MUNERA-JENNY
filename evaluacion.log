@@ -1,0 +1,4 @@
+[2024-08-08 23:07:36] [ INFO ] [OdontologoCollectionImpl:18] Odontologo guardado en la lista: Odontologo{id=null, matricula=35453, nombre='Jenny', apellido='Munera'}
+[2024-08-08 23:07:36] [ INFO ] [OdontologoCollectionImpl:18] Odontologo guardado en la lista: Odontologo{id=null, matricula=65987, nombre='Andres', apellido='Intriago'}
+[2024-08-08 23:07:36] [ INFO ] [OdontologoCollectionImpl:1597] Odontologo{id=null, matricula=35453, nombre='Jenny', apellido='Munera'}
+[2024-08-08 23:07:36] [ INFO ] [OdontologoCollectionImpl:1597] Odontologo{id=null, matricula=65987, nombre='Andres', apellido='Intriago'}

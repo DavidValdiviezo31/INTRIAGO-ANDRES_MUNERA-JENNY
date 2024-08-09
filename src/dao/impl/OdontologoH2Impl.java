@@ -35,7 +35,7 @@ public class OdontologoH2Impl implements IDao<Odontologo> {
 
             if (rs.next()) {
                 odontologo.setId(rs.getInt(1));
-                logger.info("Odontologo Guardado: "+ odontologo);
+                logger.info("Odontologo Guardado: " + odontologo);
             }
 
         } catch (Exception err) {
@@ -69,9 +69,9 @@ public class OdontologoH2Impl implements IDao<Odontologo> {
 
                 Odontologo odontologo = new Odontologo(idDB, matriculaDB, nombreDB, apellidoDB);
                 listaOdontologos.add(odontologo);
-                logger.info(odontologo.toString());
             }
 
+            listaOdontologos.forEach(logger::info);
             System.out.println("---------------LISTA DE ODONTOLOGOS---------------");
             listaOdontologos.forEach(System.out::println);
         } catch (Exception err) {
